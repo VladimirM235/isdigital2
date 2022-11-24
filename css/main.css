@@ -310,7 +310,7 @@ p {
 /* /hero */
 .whyis {
   padding: clamp(1.875rem, -0.489rem + 11.82vw, 10rem) 0;
-  background-image: linear-gradient(rgb(4, 43, 65), rgba(10, 51, 74, 0.86)), url(/img/isdigital.jpg);
+  background-image: linear-gradient(rgb(4, 43, 65), rgba(10, 51, 74, 0.86)), url(img/isdigital.jpg);
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -409,7 +409,7 @@ p {
 }
 
 .service {
-  background-image: linear-gradient(rgba(0, 44, 68, 0.94), rgb(1, 27, 42)), url(/img/sevice.jpg);
+  background-image: linear-gradient(rgba(0, 44, 68, 0.94), rgb(1, 27, 42)), url(img/sevice.jpg);
   background-position: center;
   background-size: cover;
   padding-top: 30px;
